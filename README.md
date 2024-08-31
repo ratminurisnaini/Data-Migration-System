@@ -99,4 +99,5 @@ Used to store the configuration parameters for generating a file, sending the ge
 | 12 |	nilai3 |	varchar |	Consists of the values in group3 field separated by semicolon |
 
 Note:
+
 The encrypted password is encrypted by the fnEncrypt function and then will be decrypted by the fnDecrypt function in the ETL system. These two functions aren't included in this repository so you have to create your own fnEncrypt and fnDecrypt functions before executing the ETL system.
