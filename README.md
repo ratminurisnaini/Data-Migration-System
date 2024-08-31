@@ -82,6 +82,8 @@ Used to store the configuration parameters for generating a file, sending the ge
 
 <img width="743" alt="ms_param (2)" src="https://github.com/user-attachments/assets/56c16199-0a14-40f3-b989-3c2b134c27f8"><br>
 
+* The filling of the ms_param table must be done as shown in the table preview.
+
 **Field descriptions**
 | No | Field | Data Type | Description |
 | --- | --- | --- | --- |
