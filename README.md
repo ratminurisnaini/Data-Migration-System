@@ -10,7 +10,8 @@ Subtasks that the system can perform in each task:
 -	Showing the process status (and logging if errors occurred)
 
 ## ETL System Simple Flowchart
-![Flowchart](https://github.com/user-attachments/assets/1f9677fd-ba7d-47db-9648-ae39ca4942b3)
+![Flowchart](https://github.com/user-attachments/assets/5d774cff-6418-4a1f-8556-03f90078a210)
+
 
 The ETL system consists of 3 jobs and 12 transformations. And three tables are used in this ETL system, namely konfig_etl, log_etl, and ms_param. They are located in the ‘Tables’ folder. The database used to store these three tables is the SQL Server database.
 
