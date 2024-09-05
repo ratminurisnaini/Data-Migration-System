@@ -1,5 +1,5 @@
 # Data-Migration-System
-This ETL system is designed using Pentaho to perform multiple tasks sequentially in one execution. The main task is to transfer data tables between servers (SQL Server-to-SQL Server or MySQL-to-SQL Server). In each task, the system can perform other subtasks besides data transfer.
+This ETL system is designed using Pentaho to perform multiple tasks sequentially in one execution. The main task is to transfer data tables between databases (SQL Server-to-SQL Server or MySQL-to-SQL Server). In each task, the system can perform other subtasks besides data transfer.
 
 Subtasks that the system can perform in each task:
 -	Data transfer (SQL Server-to-SQL Server or MySQL-to-SQL Server)
